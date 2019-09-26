@@ -9,10 +9,7 @@
 <body>
 <section class="card mt-2">
             <header class="card-header d-flex align-items-center">
-                <h5 class="card-title pl-4 mb-0">
-                <img class="avatar" src="img/avatar6.png" alt="Avatar" class="avatar">
-                    <?= $row['name'] ?>
-</section>
+
         
 
 </body>
